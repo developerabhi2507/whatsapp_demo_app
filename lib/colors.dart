@@ -1,0 +1,24 @@
+import 'dart:ui';
+
+const backgroundColorDarkTheme = Color(0xFF111B21);
+const backgroundColorLightTheme = Color(0xFFFFFFFF);
+const widgetBackgroundColor = Color(0xFF263238);
+const titleColor = Color(0xFF90A4AE);
+const contactListColor = Color(0xFFECEFF1);
+const chatListAndTimeColor = Color(0xFF90A4AE);
+const widgetTextColor = Color(0xFFFFFFFF);
+const appBarColor = Color(0xFF263238);
+const iconColor = Color(0xFF90A4AE);
+const selectedTabColor = Color(0xFF00BFA5);
+const unSelectedTabColor = Color(0xFF90A4AE);
+const mobileChatBoxColor = Color(0xFF263238);
+const hintTextColor = Color(0xFF90A4AE);
+const cursorColor = Color(0xFF00695C);
+const receiveMessageColor = Color(0xFF00695C);
+const sendMessageColor = Color(0xFF263238);
+const chatScreenBackgroundColor = Color(0xFF000000);
+const typeMessage = Color(0xFFFFFFFF);
+const webAppBarColor = Color.fromRGBO(42, 47, 50, 1);
+const searchBarColor = Color.fromRGBO(50, 55, 57, 1);
+const dividerColor = Color.fromRGBO(37, 45, 50, 1);
+const chatBarMessage = Color.fromRGBO(30, 36, 40, 1);
